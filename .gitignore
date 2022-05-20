@@ -28,4 +28,11 @@ dist
 node_modules
 /platforms
 plugins
+babel.config.js
+capacitor.config.js
+cypress.json
+jest.config.js
+tsconfig.json
+.eslintrc.json
+.browserslistrc
 /www
